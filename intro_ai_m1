@@ -1,0 +1,26 @@
+## Intro:
+Ai is made by humans & rely on human-curated data. it improve human abilities & automation is good
+The goal is improving lives, not replacing people
+
+AI: a technique which enables machines to mimic humans
+ML: subset of ai technique which use statistical methods to enable machines to improve with experience
+Deep Learning: subset of ML which make computation of multi-layer neural network feasible.
+
+use cases:
+automating routine admin tasks: data entry, document process, appointments & schedules
+realtime personalized recommendations: enhance customer service & sales
+analyzing data from IOT sensors to predict machine failures and optimize maintenance.
+scanning & analyzing legal contracts, medical records to extarct key info.
+generating drafts of content like reports emails and social media posts.
+
+automate repettaive & low value work & focus on creativity, innovation & strategy
+
+ai usecases: https://www.nocode.ai/use-cases-by-industry/
+
+which is not an ai:
+1.rules based system - human knowledge != machine intelligence. 
+2.simple optimizatiom - linear prog. are not ai
+3.data analysis - BI & reporting data is on its own data. its not ai
+4.pre-programmed behavior - an agent acting via hardcoded rules lacks learning & generalization associated with ai
+5.static predictions - they are for predections without adapting its not ai
+
