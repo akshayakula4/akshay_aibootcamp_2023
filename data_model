@@ -1,0 +1,9 @@
+data source >data quality > data cleaning > data transformation > data splitting
+
+data splitting is used to avoid overfitting. Overfitting is when a ML model fits its training data
+too well and fails to reliably fit additional data. it helps model to generalize well to unknow or unseen data
+its simple sub-step in ML model.
+  
+ training data - subset of data to train the model
+ validation data - used to fine-tune model parameters & provide an unbiased evalutaion of model during training phase
+ test data - used to test the model after it has been trained to evaluate performance
