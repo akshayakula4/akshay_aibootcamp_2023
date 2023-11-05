@@ -7,3 +7,20 @@ its simple sub-step in ML model.
  training data - subset of data to train the model
  validation data - used to fine-tune model parameters & provide an unbiased evalutaion of model during training phase
  test data - used to test the model after it has been trained to evaluate performance
+
+features & labels,
+- model performance
+- computational efficiency
+- interpretability
+- generalization
+
+data integration -> data quality -> model training  -> feature eng. -> all features or selectedfeatures or final features.
+
+->self service data consumption
+-> multi-cloud integration
+-> automated governance, protection & security.
+
+
+
+
+
