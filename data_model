@@ -20,6 +20,9 @@ data integration -> data quality -> model training  -> feature eng. -> all featu
 -> multi-cloud integration
 -> automated governance, protection & security.
 
+Disadvantages: 
+-> over feeding the data which impacts model performance.
+
 
 
 
